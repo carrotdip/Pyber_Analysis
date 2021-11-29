@@ -4,7 +4,7 @@ The purpose of this investigation was to analyze trends in the PyBer ride sharin
 
 ## Results
 ![Fig1](https://github.com/carrotdip/Pyber_Analysis/blob/main/analysis/Fig1.png)\
-Figure 1 shows the total numbers of rides per city compared to the average fare. The size of the bubbles relates to the number of drivers per city. It was found that cities that had more rides had lower average fares. The amount of drivers, on the other hand, does not appear to be linked to the cost of rides, as there are various sized bubbles scattered throughout the graph with no clear trend. There is no obvious connection between these two parameters. 
+Figure 1 shows the total numbers of rides per city compared to the average fare. The size of the bubbles relates to the number of drivers per city. It was found that cities that had more rides had lower average fares. 
 ![Fig2](https://github.com/carrotdip/Pyber_Analysis/blob/main/analysis/Fig2.png)\
 Figure 2 shows the distribution of the number of rides per city type. The average numbers of rides for urban, suburban, and rural cities are 24, 17, and 6, respectively. The average number of rides for suburban cities is about 3x the amount of rural rides. The mean number of rides for urban cities is roughly 1.5x that of the suburban cities, and 4x that of rural cities. An outlier, which is a value over 2 standard deviations away from the mean, was also found in the urban city data. It is highly unusual for urban cities to have more than 38 rides. 
 ![Fig3](https://github.com/carrotdip/Pyber_Analysis/blob/main/analysis/Fig3.png)\
