@@ -21,3 +21,4 @@ Figure 7 outlines the percentages of the number of drivers for each city type. D
 Figure 8 shows the total fare per city type for the past 4 months. It is clear that urban cities generate the most revenue, followed by suburban then rural cities. There is also a overall slight spike in the amount of revenue in the second half of February. 
 
 ## Summary
+I would recommend enhancing the recruitment of drivers in rural and suburban cities. There is a large disparity in the number of drivers in rural and suburban cities compared to urban cities. With more drivers, the amount of revenue generated would increase as the average fare for these rides are larger than that of urban cities. 
